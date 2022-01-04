@@ -7,6 +7,8 @@ categorise:
 tags:
   - Blog
 ---
-# My first blog
+# M1 에 Jekyll 설치 & Ruby installation
 
 ## 2021.01.04
+
+### github page 열기 Issues
